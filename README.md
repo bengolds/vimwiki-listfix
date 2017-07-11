@@ -8,6 +8,6 @@
 ## Installation
 I use [vim-plug](https://github.com/junegunn/vim-plug), but I think Pathogen and others work pretty similarly.
 
-`Plug 'bengolds/vimwiki-listfix`
+`Plug 'bengolds/vimwiki-listfix'`
 
 And you should be off to the races!
